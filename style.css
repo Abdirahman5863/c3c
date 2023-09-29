@@ -8,7 +8,6 @@
 }
 .section_A {
   min-height: 80vh;
-  /* background-color: #000; */
   width: 100%;
 }
 .header {
@@ -57,7 +56,7 @@
   text-align: center;
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
-  min-height:400px;
+  min-height: 400px;
 }
 .live {
   color: #06cd98;
@@ -81,7 +80,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  /* gap: 282px; */
   width: 100%;
 }
 .shopping {
@@ -208,9 +206,9 @@
 }
 .zero {
   display: inline-flex;
-  box-shadow:transparent;
+  box-shadow: transparent;
   text-shadow: transparent;
-border-style: 1px soliod white;
+  border-style: 1px soliod white;
 
   opacity: 0.5;
 }
@@ -259,7 +257,6 @@ border-style: 1px soliod white;
   gap: 20px;
   width: 100%;
   align-items: center;
-
 }
 .spongy {
   padding-left: 100px;
@@ -415,7 +412,8 @@ h1 {
   line-height: normal;
   width: 100%;
   padding-left: 30px;
-  padding-right: 10px
+  padding-right: 10px;
+  padding-bottom: 20px;
 }
 .tiktok_namy {
   color: #000;
